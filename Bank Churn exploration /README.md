@@ -12,7 +12,7 @@
 - Пол  
 ![image](https://github.com/user-attachments/assets/68da7e6b-b1ef-41d1-9eee-28e8b639519c)
 
-Использованные библиотеки :  
+Использованные **Python** библиотеки:  
 - `pandas` для работы с данными
 - `numpy` для точных вычислений
 - `matplotlib.pyplot`, `seaborn`, `plotly.express` для визуализации
