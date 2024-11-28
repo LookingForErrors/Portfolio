@@ -2,14 +2,20 @@
 
 ## Было проведено исследование по банкам из нескольких стран и установлена ключевая группа, склонная к отказу от услуг банка.
 
-Их возраст:  
+Получены:  
+- Их возраст  
 ![image](https://github.com/user-attachments/assets/7b776ab9-b59c-4248-a993-99c57ce7e353)
 
-Страна:  
+- Страна  
 ![image](https://github.com/user-attachments/assets/7396c31c-8df0-423f-9a2c-ff071f94b3a9)
 
-И пол:  
+- Пол  
 ![image](https://github.com/user-attachments/assets/68da7e6b-b1ef-41d1-9eee-28e8b639519c)
+
+Использованные библиотеки :  
+- `pandas` для работы с данными
+- `numpy` для точных вычислений
+- `matplotlib.pyplot`, `seaborn`, `plotly.express` для визуализации
 
 
 ## Разбор решения
