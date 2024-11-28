@@ -2,6 +2,18 @@
 
 ## Было проведено исследование по банкам из нескольких стран и установлена ключевая группа, склонная к отказу от услуг банка.
 
+Их возраст:  
+![image](https://github.com/user-attachments/assets/7b776ab9-b59c-4248-a993-99c57ce7e353)
+
+Страна:  
+![image](https://github.com/user-attachments/assets/7396c31c-8df0-423f-9a2c-ff071f94b3a9)
+
+И пол:  
+![image](https://github.com/user-attachments/assets/68da7e6b-b1ef-41d1-9eee-28e8b639519c)
+
+
+## Разбор решения
+
 **I**. Данные уже чисты. Сразу посмотрим на корреляции:
 
 ![image](https://github.com/user-attachments/assets/f08e3093-5a31-498b-b20f-f09c07a87cc2)
