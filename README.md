@@ -15,6 +15,6 @@
 - Анализ и визуализация проведенной рекламной компании
 - Проверка гипотезы на примере A/B теста
 
-telegram: @errors_lf
-email: danila_petrov_02@inbox.ru
-hh.ru: hh.ru/resume/be603529ff0d810d2f0039ed1f594d7349666b
+telegram: @errors_lf  
+email: danila_petrov_02@inbox.ru  
+hh.ru: hh.ru/resume/be603529ff0d810d2f0039ed1f594d7349666b  
