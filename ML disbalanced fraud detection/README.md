@@ -8,4 +8,4 @@
 
 В сравнение классическая `LogisticRegression` из **sklearn.linear_model**
 
-![image](https://github.com/user-attachments/assets/c798d02f-28d8-465c-8516-ce038f8d215b)
+![image](https://github.com/user-attachments/assets/8fe05d87-f192-466b-815e-cb47d887946f)
