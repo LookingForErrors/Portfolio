@@ -8,13 +8,13 @@ fraud_data = pd.read_csv(path)
 
 print('No undersampling model metrics:')
 
-model = md.model_training(fraud_data, undersampling=False, cross_train=False)
+model = md.model_training(fraud_data, undersampling=False, cross_train=True)
 
 print('-'*60)
 
 print('Model metrics with undersampling:')
 
-model = md.model_training(fraud_data, undersampling=True, cross_train=False)
+model = md.model_training(fraud_data, undersampling=True, cross_train=True)
 
 # No undersampling model metrics:
 # ROC AUC:  0.9789
