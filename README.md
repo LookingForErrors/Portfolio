@@ -18,4 +18,4 @@
 
 telegram: @errors_lf  
 email: danila_petrov_02@inbox.ru  
-resume: [hh](hh.ru/resume/be603529ff0d810d2f0039ed1f594d7349666b)  
+resume: [hh.ru](hh.ru/resume/be603529ff0d810d2f0039ed1f594d7349666b)  
