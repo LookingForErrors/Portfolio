@@ -22,3 +22,7 @@
 ![image](https://github.com/user-attachments/assets/bb514852-1d56-4d1c-a36b-babbbd38a6bf)
 
 Из-за слишком сильного дизбаланса классов и отличной работы *XGBClassifier* с этим дизбалансом - undersampling с 300 до 100 тысяч почти никак не влияет на результаты
+
+
+Источник данных:  
+[Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
